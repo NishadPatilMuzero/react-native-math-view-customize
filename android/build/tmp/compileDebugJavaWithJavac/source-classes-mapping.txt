@@ -1,0 +1,37 @@
+com/autodidact/BuildConfig.java
+ com.autodidact.BuildConfig
+io/autodidact/rnmathview/RNMathViewManager.java
+ io.autodidact.rnmathview.RNMathViewManager
+io/autodidact/mathjaxprovider/MathJaxRequestHelper.java
+ io.autodidact.mathjaxprovider.MathJaxRequestHelper
+ io.autodidact.mathjaxprovider.MathJaxRequestHelper$1
+ io.autodidact.mathjaxprovider.MathJaxRequestHelper$CompletionCallback
+ io.autodidact.mathjaxprovider.MathJaxRequestHelper$Options
+io/autodidact/mathjaxprovider/MathJaxProvider.java
+ io.autodidact.mathjaxprovider.MathJaxProvider
+ io.autodidact.mathjaxprovider.MathJaxProvider$1
+ io.autodidact.mathjaxprovider.MathJaxProvider$1$1
+ io.autodidact.mathjaxprovider.MathJaxProvider$1$1$1
+ io.autodidact.mathjaxprovider.MathJaxProvider$MathJaxOptions
+ io.autodidact.mathjaxprovider.MathJaxProvider$OnMessageListener
+io/autodidact/rnmathview/SVGAttributes.java
+ io.autodidact.rnmathview.SVGAttributes
+io/autodidact/rnmathview/RNMathViewModule.java
+ io.autodidact.rnmathview.RNMathViewModule
+ io.autodidact.rnmathview.RNMathViewModule$1
+io/autodidact/mathjaxprovider/RNMathJaxProviderManager.java
+ io.autodidact.mathjaxprovider.RNMathJaxProviderManager
+io/autodidact/rnmathview/RNMathViewPackage.java
+ io.autodidact.rnmathview.RNMathViewPackage
+io/autodidact/rnmathview/SVGLength.java
+ io.autodidact.rnmathview.SVGLength
+ io.autodidact.rnmathview.SVGLength$1
+ io.autodidact.rnmathview.SVGLength$UnitType
+io/autodidact/mathjaxprovider/JavaScriptUtility.java
+ io.autodidact.mathjaxprovider.JavaScriptUtility
+ io.autodidact.mathjaxprovider.JavaScriptUtility$WebViewBridge
+ io.autodidact.mathjaxprovider.JavaScriptUtility$WebViewBridge$1
+io/autodidact/rnmathview/SVGShadowNode.java
+ io.autodidact.rnmathview.SVGShadowNode
+io/autodidact/rnmathview/SVGMathView.java
+ io.autodidact.rnmathview.SVGMathView

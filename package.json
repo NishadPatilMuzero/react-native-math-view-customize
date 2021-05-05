@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      "react-native-math-view@3.8.2",
+      "/Users/prashilk/Documents/MuZero/mu-zerolearning-reactnative"
+    ]
+  ],
+  "_from": "react-native-math-view@3.8.2",
+  "_id": "react-native-math-view@3.8.2",
+  "_inBundle": false,
+  "_integrity": "sha512-mWlv5nqxWhO+vmXAlYD7aOn7c21MFuYSXoAp0YbUefknpOX4PaCFtwHJ8mt941RYU/1gLTk57iRIcipjpXg2aQ==",
+  "_location": "/react-native-math-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-math-view@3.8.2",
+    "name": "react-native-math-view",
+    "escapedName": "react-native-math-view",
+    "rawSpec": "3.8.2",
+    "saveSpec": null,
+    "fetchSpec": "3.8.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-math-view/-/react-native-math-view-3.8.2.tgz",
+  "_spec": "3.8.2",
+  "_where": "/Users/prashilk/Documents/MuZero/mu-zerolearning-reactnative",
+  "author": {
+    "name": "ShaMan123",
+    "url": "https://github.com/ShaMan123"
+  },
+  "bugs": {
+    "url": "https://github.com/ShaMan123/react-native-math-view/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mathjax-full": "^3.1.2",
+    "transformation-matrix": "^2.1.0"
+  },
+  "description": "Math view for react-native",
+  "devDependencies": {
+    "@types/events": "^3.0.0",
+    "@types/lodash": "^4.14.138",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.8.4",
+    "@types/react-native": "^0.60.15",
+    "babel-loader": "^8.0.6",
+    "fs-extra": "^9.0.1",
+    "path": "^0.12.7",
+    "semver": "^6.2.0",
+    "ts-loader": "^6.0.1",
+    "typescript": "^3.4.5",
+    "yargs": "^14.0.0"
+  },
+  "esnext": "src",
+  "homepage": "https://github.com/ShaMan123/react-native-math-view#readme",
+  "keywords": [
+    "react-native",
+    "math",
+    "KaTeX",
+    "LaTex",
+    "MathJax",
+    "math view",
+    "math-view",
+    "rn"
+  ],
+  "license": "",
+  "main": "src",
+  "name": "react-native-math-view",
+  "nativePackage": true,
+  "peerDependencies": {
+    "react-native": "*",
+    "react-native-svg": "^9.13.3"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaMan123/react-native-math-view.git"
+  },
+  "resolutions": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "scripts": {
+    "dev": "node ./scripts/dev",
+    "postinstall": "node ./scripts/compileMathjax",
+    "release": "node ./scripts/publish",
+    "start": "cd MathExample && npm start",
+    "tsc": "node ./scripts/dev --tsc"
+  },
+  "version": "3.8.2"
+}
