@@ -24,7 +24,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-math-view/-/react-native-math-view-3.8.2.tgz",
+  "_resolved": "https://github.com/NishadPatilMuzero/react-native-math-view-customize",
   "_spec": "3.8.2",
   "_where": "/Users/prashilk/Documents/MuZero/mu-zerolearning-reactnative",
   "author": {
@@ -32,7 +32,7 @@
     "url": "https://github.com/ShaMan123"
   },
   "bugs": {
-    "url": "https://github.com/ShaMan123/react-native-math-view/issues"
+    "url": "https://github.com/NishadPatilMuzero/react-native-math-view-customize/issues"
   },
   "dependencies": {
     "lodash": "^4.17.15",
@@ -55,7 +55,7 @@
     "yargs": "^14.0.0"
   },
   "esnext": "src",
-  "homepage": "https://github.com/ShaMan123/react-native-math-view#readme",
+  "homepage": "https://github.com/NishadPatilMuzero/react-native-math-view-customize#readme",
   "keywords": [
     "react-native",
     "math",
@@ -79,7 +79,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShaMan123/react-native-math-view.git"
+    "url": "git+https://github.com/NishadPatilMuzero/react-native-math-view-customize.git"
   },
   "resolutions": {
     "react": "*",
